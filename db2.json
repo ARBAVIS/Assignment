@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {  
+       "id":1, 
+      "title": "Frontend Developer",
+      "company": "Tech Corp",
+      "location": "Remote"
+    },
+    {
+       "id":2,
+      "title": "Backend Engineer",
+      "company": "CodeBase Ltd",
+      "location": "San Francisco, CA"
+    },
+    {  "id":3,
+      "title": "UI/UX Designer",
+      "company": "Creative Minds",
+      "location": "New York, NY"
+    },
+    {
+      "id":4,
+      "title": "Front End Developer",
+      "company": "Web Technology Pvt. Ltd",
+      "location": "Pune"
+    }
+    
+  ]
+}
